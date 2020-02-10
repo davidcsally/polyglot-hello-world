@@ -1,0 +1,8 @@
+:root {
+  --name: "world"
+}
+
+#hello-world::after { 
+  content: "hello, " var(--name) "!";
+  color: black;
+}
