@@ -18,5 +18,5 @@ The rules are:
 - [x] python
 - [ ] r
 - [ ] ruby
-- [ ] rust
+- [x] rust
 - [ ] swift
