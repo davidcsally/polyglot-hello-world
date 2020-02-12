@@ -10,14 +10,25 @@ The rules are:
 
 - [ ] c#
 - [ ] c++
+- [ ] clojure
 - [x] css
 - [ ] coffeescript
+- [ ] dart
 - [x] elixir
+- [ ] elm
 - [ ] erlang
+- [ ] fortran
+- [ ] go
+- [ ] html
 - [ ] java
 - [x] javascript
+- [ ] kotlin
+- [ ] lua
+- [ ] php
 - [x] python
 - [ ] r
 - [ ] ruby
 - [x] rust
+- [ ] shell
 - [ ] swift
+- [ ] typescript
