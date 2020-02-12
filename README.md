@@ -12,7 +12,8 @@ The rules are:
 - [ ] c++
 - [x] css
 - [ ] coffeescript
-- [ ] elixir
+- [x] elixir
+- [ ] erlang
 - [ ] java
 - [x] javascript
 - [x] python
