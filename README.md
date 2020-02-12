@@ -27,7 +27,7 @@ The rules are:
 - [ ] php
 - [x] python
 - [ ] r
-- [ ] ruby
+- [x] ruby
 - [x] rust
 - [ ] shell
 - [ ] swift
