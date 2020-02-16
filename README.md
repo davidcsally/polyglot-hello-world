@@ -31,4 +31,4 @@ The rules are:
 - [x] rust
 - [ ] shell
 - [x] swift
-- [ ] typescript
+- [x] typescript
