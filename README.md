@@ -30,5 +30,5 @@ The rules are:
 - [x] ruby
 - [x] rust
 - [ ] shell
-- [ ] swift
+- [x] swift
 - [ ] typescript
